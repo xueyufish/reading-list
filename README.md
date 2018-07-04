@@ -1,6 +1,10 @@
 ## Learning Resource
 
 ### Java
+[Introduction to java bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
+
+[IBM developerworks Java bytecode](https://www.ibm.com/developerworks/library/it-haggar_bytecode/index.html)
+
 [Spring Boot参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
 
 ### Go
@@ -37,15 +41,15 @@
 
 [Making reliable distributed systems in the presence of software errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
 
-### 区块链
+### Block Chain
 
-#### 比特币
-[比特币白皮书](http://www.yuxiumin.com/2018/01/16/bitcoin-white-paper/)
+#### Bitcoin
+[Bitcoin White Paper](http://www.yuxiumin.com/2018/01/16/bitcoin-white-paper/)
 
 [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#block-chain)
 
-#### 以太坊
-[以太坊白皮书](https://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
+#### Ethereum
+[Ethereum White Paper](https://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 
 [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 
