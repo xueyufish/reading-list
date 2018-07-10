@@ -36,13 +36,41 @@
 [microservices](https://martinfowler.com/articles/microservices.html)
 
 ### Distributed System
-[可扩展的Web架构和分布式系统](http://nettee.github.io/posts/2016/Scalable-Web-Architecture-and-Distributed-Systems/)
+[Scalable Web Architecture and Distributed Systems](http://nettee.github.io/posts/2016/Scalable-Web-Architecture-and-Distributed-Systems/)
 
 [Distributed Systems Principles and Paradigms](http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Distributed%20Systems%20Principles%20and%20Paradigms.pdf)
 
 [Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf)
 
 [Making reliable distributed systems in the presence of software errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
+
+[Scalability, Availability & Stability Patterns](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
+
+[An introduction to distributed systems](https://github.com/aphyr/distsys-class)
+
+[Byzantine fault tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
+
+[The CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+
+[A Brief Tour of FLP Impossibility](http://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/)
+
+[Las Vegas algorithm](https://en.wikipedia.org/wiki/Las_Vegas_algorithm)
+
+[Consensus in the Presence of Partial Synchrony](http://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf)
+
+[Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+
+[Eight Fallacies of Distributed Computing](https://blog.fogcreek.com/eight-fallacies-of-distributed-computing-tech-talk/)
+
+[Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
+
+[CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/cn/articles/cap-twelve-years-later-how-the-rules-have-changed)
+
+[Harvest, Yield, and Scalable Tolerant Systems](http://www.rgoarchitects.com/Files/fallacies.pdf)
+
+[Base: An Acid Alternative](http://www.cnblogs.com/savorboard/p/base-an-acid-alternative.html)
+
+[Eventually Consistent - Revisited](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 
 ### Block Chain
 
