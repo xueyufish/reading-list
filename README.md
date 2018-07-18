@@ -83,6 +83,11 @@
 
 [How Discord Stores Billions of Messages](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 
+### Redis
+[Distributed locks with Redis](https://redis.io/topics/distlock)
+
+[Redis分布式锁](http://www.redis.cn/topics/distlock.html)
+
 ### Docker
 [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
 
