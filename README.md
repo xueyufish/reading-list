@@ -148,6 +148,8 @@
 
 [Eventually Consistent - Revisited](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 
+[Dapper，大规模分布式系统的跟踪系统](http://bigbully.github.io/Dapper-translation/)
+
 ### Block Chain
 
 #### Bitcoin
