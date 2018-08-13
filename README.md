@@ -150,6 +150,8 @@
 
 [Dapper，大规模分布式系统的跟踪系统](http://bigbully.github.io/Dapper-translation/)
 
+[ZooKeeper’s atomic broadcast protocol: Theory and practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf)
+
 ### Block Chain
 
 #### Bitcoin
