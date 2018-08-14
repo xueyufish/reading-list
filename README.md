@@ -14,6 +14,8 @@
 
 [Go Project Layout](https://medium.com/golang-learn/go-project-layout-e5213cdcfaa2)
 
+[Effective go 中英双语版](https://legacy.gitbook.com/book/bingohuang/effective-go-zh-en)
+
 ### Database
 [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
