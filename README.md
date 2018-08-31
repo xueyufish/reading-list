@@ -14,6 +14,8 @@
 
 [Go Project Layout](https://medium.com/golang-learn/go-project-layout-e5213cdcfaa2)
 
+[Go Standards Project Layout](https://github.com/golang-standards/project-layout)
+
 [Effective go 中英双语版](https://legacy.gitbook.com/book/bingohuang/effective-go-zh-en)
 
 ### Database
