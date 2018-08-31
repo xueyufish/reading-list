@@ -8,6 +8,8 @@
 [Spring Boot参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
 
 ### Go
+[The Go Programming Language Specification](https://golang.org/ref/spec)
+
 [Go By Example](https://gobyexample.com/)
 
 [Go 101](https://go101.org/article/101.html)
