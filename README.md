@@ -20,6 +20,8 @@
 
 [Effective Go](https://golang.org/doc/effective_go.html)
 
+[Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+
 ### Database
 [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
