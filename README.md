@@ -62,39 +62,14 @@
 [Memory part 9: Appendices and bibliography](https://lwn.net/Articles/258188/)
 
 ### Database
-[MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 [Some study on database storage internals](https://medium.com/@kousiknath/data-structures-database-storage-internals-1f5ed3619d430)
 
-[Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
-
-[Choosing MySQL High Availability Solutions](https://dzone.com/articles/choosing-mysql-high-availability-solutions)
-
-[High availability with MariaDB TX](https://mariadb.com/sites/default/files/content/Whitepaper_High_availability_with_MariaDB-TX.pdf)
-
-[BOOKING.COM: EVOLUTION OF MYSQL SYSTEM DESIGN](https://www.percona.com/live/mysql-conference-2015/sessions/bookingcom-evolution-mysql-system-design)
-
 [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
-
-[Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
-
-[MONITORING DELAYED REPLICATION, WITH A FOCUS ON MYSQL](https://engineering.imvu.com/2013/01/09/monitoring-delayed-replication-with-a-focus-on-mysql/)
 
 [Mitigating replication lag and reducing read load with freno](https://githubengineering.com/mitigating-replication-lag-and-reducing-read-load-with-freno/)
 
-[Better Parallel Replication for MySQL](https://medium.com/booking-com-infrastructure/better-parallel-replication-for-mysql-14e2d7857813)
-
-[Evaluating MySQL Parallel Replication Part 2: Slave Group Commit](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-2-slave-group-commit-459026a141d2)
-
-[Evaluating MySQL Parallel Replication Part 3: Benchmarks in Production](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-3-benchmarks-in-production-db5811058d74)
-
-[Evaluating MySQL Parallel Replication Part 4: More Benchmarks in Production](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-4-more-benchmarks-in-production-49ee255043ab)
-
-[Evaluating MySQL Parallel Replication Part 4, Annex: Under the Hood](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-4-annex-under-the-hood-eb456cf8b2fb)
-
 [Why you don’t want to shard](https://www.percona.com/blog/2009/08/06/why-you-dont-want-to-shard/)
-
-[MySQL Sharding with ProxySQL](https://www.percona.com/blog/2016/08/30/mysql-sharding-with-proxysql/)
 
 [How to Scale Big Data Applications](https://www.percona.com/sites/default/files/presentations/How%20to%20Scale%20Big%20Data%20Applications.pdf)
 
@@ -118,6 +93,61 @@
 
 [SQL or NoSQL](https://engineering.salesforce.com/sql-or-nosql-9eaf1d92545b)
 
+
+### MySQL
+[MySQL Documentation](https://dev.mysql.com/doc/)
+
+[MySQL Internals Manual](https://dev.mysql.com/doc/internals/en/)
+
+[MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+
+[Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
+
+[Choosing MySQL High Availability Solutions](https://dzone.com/articles/choosing-mysql-high-availability-solutions)
+
+[High availability with MariaDB TX](https://mariadb.com/sites/default/files/content/Whitepaper_High_availability_with_MariaDB-TX.pdf)
+
+[BOOKING.COM: EVOLUTION OF MYSQL SYSTEM DESIGN](https://www.percona.com/live/mysql-conference-2015/sessions/bookingcom-evolution-mysql-system-design)
+
+[Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
+
+[MONITORING DELAYED REPLICATION, WITH A FOCUS ON MYSQL](https://engineering.imvu.com/2013/01/09/monitoring-delayed-replication-with-a-focus-on-mysql/)
+
+[Better Parallel Replication for MySQL](https://medium.com/booking-com-infrastructure/better-parallel-replication-for-mysql-14e2d7857813)
+
+[Evaluating MySQL Parallel Replication Part 2: Slave Group Commit](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-2-slave-group-commit-459026a141d2)
+
+[Evaluating MySQL Parallel Replication Part 3: Benchmarks in Production](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-3-benchmarks-in-production-db5811058d74)
+
+[Evaluating MySQL Parallel Replication Part 4: More Benchmarks in Production](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-4-more-benchmarks-in-production-49ee255043ab)
+
+[Evaluating MySQL Parallel Replication Part 4, Annex: Under the Hood](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-4-annex-under-the-hood-eb456cf8b2fb)
+
+[MySQL Sharding with ProxySQL](https://www.percona.com/blog/2016/08/30/mysql-sharding-with-proxysql/)
+
+
+### Redis
+[Distributed locks with Redis](https://redis.io/topics/distlock)
+
+[How Twitter Uses Redis To Scale - 105TB RAM, 39MM QPS, 10,000+ Instances](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
+
+[Learn Redis the hard way (in production)](https://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
+
+[Moving persistent data out of Redis](https://githubengineering.com/moving-persistent-data-out-of-redis/)
+
+[Scaling Slack’s Job Queue](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
+
+[Optimising session key storage in Redis](https://deliveroo.engineering/2016/10/07/optimising-session-key-storage.html)
+
+[Optimising Redis storage, part two](https://deliveroo.engineering/2017/01/19/optimising-membership-queries.html)
+
+[Storing hundreds of millions of simple key-value pairs in Redis](https://instagram-engineering.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c)
+
+[GitHub: Awesome Redis](https://github.com/JamzyWang/awesome-redis)
+
+[Redis分布式锁](http://www.redis.cn/topics/distlock.html)
+
+### Cassandra
 [Avoid pitfalls in scaling your Cassandra cluster: lessons and remedies](https://medium.com/walmartlabs/avoid-pitfalls-in-scaling-your-cassandra-cluster-lessons-and-remedies-a71ca01f8c04)
 
 [Building Object Store — Storing Images in Cassandra at Walmart Scale](https://medium.com/walmartlabs/building-object-store-storing-images-in-cassandra-walmart-scale-a6b9c02af593)
@@ -130,10 +160,48 @@
 
 [How Discord Stores Billions of Messages](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 
-### Redis
-[Distributed locks with Redis](https://redis.io/topics/distlock)
+### HBase
+[Imgur Notifications: From MySQL to HBase](https://medium.com/imgur-engineering/imgur-notifications-from-mysql-to-hbase-9dba6fc44183)
 
-[Redis分布式锁](http://www.redis.cn/topics/distlock.html)
+[Improving HBase backup efficiency at Pinterest](https://medium.com/@Pinterest_Engineering/improving-hbase-backup-efficiency-at-pinterest-86159da4b954)
+
+[HBase File Locality in HDFS](http://www.larsgeorge.com/2010/05/hbase-file-locality-in-hdfs.html)
+
+[Storage Infrastructure Behind Facebook Messages Using HBase at Scale](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.294.8459&rep=rep1&type=pdf)
+
+[Awesome HBase](https://github.com/rayokota/awesome-hbase)
+
+### Document Database
+[Data Points - What the Heck Are Document Databases?](https://msdn.microsoft.com/en-us/magazine/hh547103.aspx)
+
+[eBay: Building Mission-Critical Multi-Data Center Applications with MongoDB](https://www.mongodb.com/blog/post/ebay-building-mission-critical-multi-data-center-applications-with-mongodb)
+
+[The AWS and MongoDB Infrastructure of Parse: Lessons Learned](https://medium.baqend.com/parse-is-gone-a-few-secrets-about-their-infrastructure-91b3ab2fcf71)
+
+[Migrating Mountains of Mongo Data](https://medium.com/build-addepar/migrating-mountains-of-mongo-data-63e530539952)
+
+[Couchbase Ecosystem at LinkedIn](https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin)
+
+[SimpleDB at Zendesk](https://medium.com/zendesk-engineering/resurrecting-amazon-simpledb-9404034ec506)
+
+[Github: Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
+
+### Time-Series Database
+[Introducing Atlas: Netflix’s Primary Telemetry Platform](https://medium.com/netflix-techblog/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a)
+
+[What is Time-Series Data & Why We Need a Time-Series Database](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563)
+
+[Time Series Data: Why and How to Use a Relational Database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)
+
+[Beringei: High-performance Time Series Storage Engine @Facebook](https://code.facebook.com/posts/952820474848503/beringei-a-high-performance-time-series-storage-engine/)
+
+[Building a Scalable Time Series Database on PostgreSQL](https://blog.timescale.com/when-boring-is-awesome-building-a-scalable-time-series-database-on-postgresql-2900ea453ee2)
+
+[Scaling Time Series Data Storage - Part I @Netflix](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
+
+[Design of a Cost Efficient Time Series Store for Big Data](https://medium.com/@leventov/design-of-a-cost-efficient-time-series-store-for-big-data-88c5dc41af8e)
+
+[GitHub: Awesome Time-Series Database](https://github.com/xephonhq/awesome-time-series-database)
 
 ### Docker
 [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
