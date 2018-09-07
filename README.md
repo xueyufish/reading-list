@@ -1,4 +1,4 @@
-## Learning Resource
+## Tech Resource
 
 ### Java
 [Introduction to java bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
@@ -21,6 +21,45 @@
 [Effective Go](https://golang.org/doc/effective_go.html)
 
 [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+
+### Linux
+[Product Documentation for Red Hat Enterprise Linux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/?version=7)
+
+[linux-insides](https://github.com/0xAX/linux-insides)
+
+[Linux Kernel index](https://lwn.net/Kernel/Index/)
+
+[Linux Kernel Documentation](https://www.kernel.org/doc/)
+
+[Kernal Planet](http://planet.kernel.org/)
+
+[The Linux Kernel](http://tldp.org/LDP/tlk/tlk.html)
+
+[Linux Performance](http://www.brendangregg.com/linuxperf.html)
+
+[Linux Performance and Tuning Guidelines](https://lenovopress.com/redp4285.pdf)
+
+[Memory Barriers: a Hardware View for Software Hackers](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
+
+[Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
+
+[What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
+
+[Memory part 2: CPU caches](https://lwn.net/Articles/252125/)
+
+[Memory part 3: Virtual Memory](https://lwn.net/Articles/253361/)
+
+[Memory part 4: NUMA support](https://lwn.net/Articles/254445/)
+
+[Memory part 5: What programmers can do](https://lwn.net/Articles/255364/)
+
+[Memory part 6: More things programmers can do](https://lwn.net/Articles/256433/)
+
+[Memory part 7: Memory performance tools](https://lwn.net/Articles/257209/)
+
+[Memory part 8: Future technologies](https://lwn.net/Articles/258154/)
+
+[Memory part 9: Appendices and bibliography](https://lwn.net/Articles/258188/)
 
 ### Database
 [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
