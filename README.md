@@ -1,5 +1,6 @@
-## Tech Resource
+# Tech Resource
 
+## Programming Language
 ### Java
 [Introduction to java bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
 
@@ -34,6 +35,7 @@
 
 [Github: Awesome Go](https://github.com/avelino/awesome-go)
 
+## System
 ### Linux
 [Product Documentation for Red Hat Enterprise Linux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/?version=7)
 
@@ -73,7 +75,7 @@
 
 [Memory part 9: Appendices and bibliography](https://lwn.net/Articles/258188/)
 
-### Database
+## Database
 
 [Some study on database storage internals](https://medium.com/@kousiknath/data-structures-database-storage-internals-1f5ed3619d430)
 
@@ -136,7 +138,6 @@
 
 [MySQL Sharding with ProxySQL](https://www.percona.com/blog/2016/08/30/mysql-sharding-with-proxysql/)
 
-
 ### Redis
 [Distributed locks with Redis](https://redis.io/topics/distlock)
 
@@ -170,6 +171,8 @@
 [Benchmarking Cassandra Scalability on AWS — Over a million writes per second](https://medium.com/netflix-techblog/benchmarking-cassandra-scalability-on-aws-over-a-million-writes-per-second-39f45f066c9e)
 
 [How Discord Stores Billions of Messages](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
+
+[Cassandra - A Decentralized Structured Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.6751&rep=rep1&type=pdf)
 
 ### HBase
 [Imgur Notifications: From MySQL to HBase](https://medium.com/imgur-engineering/imgur-notifications-from-mysql-to-hbase-9dba6fc44183)
@@ -214,10 +217,6 @@
 
 [GitHub: Awesome Time-Series Database](https://github.com/xephonhq/awesome-time-series-database)
 
-### Docker
-[Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
-
-[Docker 问答录](https://blog.lab99.org/post/docker-2016-07-14-faq.html)
 
 ### API Design Guidelines
 [How to Design a Good API](https://www.infoq.com/presentations/effective-api-design)
@@ -234,8 +233,7 @@
 
 [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
-### Micro Service
-[microservices](https://martinfowler.com/articles/microservices.html)
+
 
 ### Distributed System
 [Fallacies of Distributed Computing Explained](https://www.rgoarchitects.com/Files/fallacies.pdf)
@@ -334,14 +332,223 @@
 
 [Spanner: Becoming a SQL System](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46103.pdf)
 
-### Block Chain
+[The Log-Structured Merge-Tree](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 
-#### Bitcoin
+[日志结构的合并树 The Log-Structured Merge-Tree](http://www.cnblogs.com/siegfang/archive/2013/01/12/lsm-tree.html)
+
+[Tango: Distributed Data Structures over a Shared Log](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/11/Tango.pdf)
+
+[The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf)
+
+[Scaling Big Data Mining Infrastructure: The Twitter Experience](http://www.datascienceassn.org/sites/default/files/Scaling%20Big%20Data%20Mining%20Infrastructure%20-%20The%20Twitter%20Experience.pdf)
+
+[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
+
+[Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf)
+
+[PSYNC: A partially synchronous language for fault-tolerant distributed algorithms](https://www.di.ens.fr/~cezarad/popl16.pdf)
+
+[Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36632.pdf)
+
+[The Twelve-Factor App](https://12factor.net/zh_cn/)
+
+[On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/index.html)
+
+[4 Things to Keep in Mind When Building a Platform for the Enterprise](https://blog.box.com/blog/4-things-to-keep-in-mind-when-building-a-platform-for-the-enterprise/)
+
+[Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+
+[Designing For Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
+
+[Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
+
+[Writing Code that Scales](https://blog.rackspace.com/writing-code-that-scales)
+
+[Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
+[Automate and abstract: Lessons from Facebook on engineering for scale](https://architecht.io/lessons-from-facebook-on-engineering-for-scale-f5716f0afc7a)
+
+[AWS Cloud Pattern](http://en.clouddesignpattern.org/index.php/Main_Page)
+
+[Design patterns for container-based distributed systems](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45406.pdf)
+
+[A pattern language for microservices](https://microservices.io/patterns/index.html)
+
+[FIT: Failure Injection Testing](https://medium.com/netflix-techblog/fit-failure-injection-testing-35d8e2a9bb2)
+
+[Automated Failure Testing](https://medium.com/netflix-techblog/automated-failure-testing-86c1b8bc841f)
+
+[Automating Failure Testing Research at Internet Scale](https://people.ucsc.edu/~palvaro/socc16.pdf)
+
+[4 Architecture Issues When Scaling Web Applications](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
+
+[Scaling Stateful Objects](http://ithare.com/scaling-stateful-objects/)
+
+[Scaling Up vs. Scaling Out: Hidden Costs](https://blog.codinghorror.com/scaling-up-vs-scaling-out-hidden-costs/)
+
+[Best Practices For Horizontal Application Scaling](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/)
+
+[Scalability Worst Practices](https://www.infoq.com/articles/scalability-worst-practices)
+
+[Reddit: Lessons Learned From Mistakes Made Scaling To 1 Billion Pageviews A Month](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
+
+[Auto scaling Pinterest](https://medium.com/@Pinterest_Engineering/auto-scaling-pinterest-df1d2beb4d64)
+
+[Autoscaling based on request queuing](https://medium.com/square-corner-blog/autoscaling-based-on-request-queuing-c4c0f57f860f)
+
+[Autoscaling applications @ PayPal](https://www.paypal-engineering.com/2017/08/16/autoscaling-applications-paypal/)
+
+[Scryer: Netflix’s Predictive Auto Scaling Engine](https://medium.com/netflix-techblog/scryer-netflixs-predictive-auto-scaling-engine-a3f8fc922270)
+
+[Your Definite Guide For Autoscaling Jenkins](https://tech.trivago.com/2017/02/17/your-definite-guide-for-autoscaling-jenkins/)
+
+[Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+
+[Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
+
+[Distributing Content to Open Connect](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
+
+[Consistent Hashing in Cassandra](https://blog.imaginea.com/consistent-hashing-in-cassandra/)
+
+[Life Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
+
+[How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+
+[Why you don’t want to shard](https://www.percona.com/blog/2009/08/06/why-you-dont-want-to-shard/)
+
+[How to Scale Big Data Applications](https://www.percona.com/sites/default/files/presentations/How%20to%20Scale%20Big%20Data%20Applications.pdf)
+
+[MySQL Sharding with ProxySQL](https://www.percona.com/blog/2016/08/30/mysql-sharding-with-proxysql/)
+
+[Design Of A Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
+
+[Caching for a Global Netflix](https://medium.com/netflix-techblog/caching-for-a-global-netflix-7bcc457012f1)
+
+[An analysis of Facebook photo caching](https://code.fb.com/web/an-analysis-of-facebook-photo-caching/)
+
+[How trivago Reduced Memcached Memory Usage by 50%](https://tech.trivago.com/2017/12/19/how-trivago-reduced-memcached-memory-usage-by-50/)
+
+[Caching Internal Service Calls at Yelp](https://engineeringblog.yelp.com/2018/03/caching-internal-service-calls-at-yelp.html)
+
+[Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
+
+[Why We Chose Kafka For The Trello Socket Architecture](https://tech.trello.com/why-we-chose-kafka/)
+
+[Running Kafka At Scale](https://engineering.linkedin.com/kafka/running-kafka-scale)
+
+[Billions of Messages a Day - Yelp's Real-time Data Pipeline](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
+
+[Should You Put Several Event Types in the Same Kafka Topic?](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
+
+[Building Reliable Reprocessing and Dead Letter Queues with Kafka](https://eng.uber.com/reliable-reprocessing/)
+
+[Introducing Chaperone: How Uber Engineering Audits Kafka End-to-End](https://eng.uber.com/chaperone/)
+
+[Publishing with Apache Kafka at The New York Times](https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077)
+
+[Kafka Streams on Heroku](https://blog.heroku.com/kafka-streams-on-heroku)
+
+[How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
+
+[Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
+
+[Delivering billions of messages exactly once](https://segment.com/blog/exactly-once-delivery/)
+
+[Benchmarking Streaming Computation Engines at Yahoo!](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
+
+[Using logs to build a solid data infrastructure](https://www.confluent.io/blog/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/)
+
+[Building DistributedLog: High-performance replicated log service](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2015/building-distributedlog-twitter-s-high-performance-replicated-log-servic.html)
+
+[LogDevice: a distributed data store for logs](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
+
+[Latency Is Everywhere And It Costs You Sales - How To Crush It](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
+
+[Big List Of 20 Common Bottlenecks](http://highscalability.com/blog/2012/5/16/big-list-of-20-common-bottlenecks.html)
+
+[Performance is a Feature](https://blog.codinghorror.com/performance-is-a-feature/)
+
+[Make Performance Part of Your Workflow](https://codeascraft.com/2014/12/11/make-performance-part-of-your-workflow/)
+
+[How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
+
+### Search 
+[Instgram: Search Architecture](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
+
+[The Architecture of eBay Search](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-8.pdf)
+
+[Faster E-commerce Search](https://www.ebayinc.com/stories/blogs/tech/making-e-commerce-search-faster/)
+
+[Introducing LinkedIn’s new search architecture](https://engineering.linkedin.com/search/did-you-mean-galene)
+
+[Search Federation Architecture at LinkedIn](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
+
+[Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
+
+[Powering Search & Recommendations at DoorDash](https://blog.doordash.com/powering-search-recommendations-at-doordash-8310c5cfd88c)
+
+[Building a complete Tweet index](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
+
+[Manas: A high performing customized search system](https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f)
+
+[Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d)
+
+[Nebula as a Storage Platform to Build Airbnb’s Search Backends](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
+
+## Micro Service
+[Martin Fowler: microservices](https://martinfowler.com/articles/microservices.html)
+
+[Amazon: What are Microservices?](https://aws.amazon.com/cn/microservices/)
+
+[Microsoft: Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
+
+[Pivotal: What are Microservices?](https://pivotal.io/microservices)
+
+[Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf)
+
+[Microservices vs Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
+
+[Microservice Patterns](https://microservices.io/)
+
+[Microservices antipatterns and pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls)
+
+[Microservice ARCHITECTURE: ALL THE BEST PRACTICES YOU NEED TO KNOW](https://codingsans.com/blog/microservice-architecture-best-practices)
+
+[Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
+
+[Simplicity by Distributing Complexity](https://time.geekbang.org/column/article/11116)
+
+[Microservices Resource Guide](https://martinfowler.com/microservices/)
+
+[PaaS vs. IaaS for Microservices Architectures: Top 6 Differences](https://www.altoros.com/blog/paas-vs-iaas-for-microservices-architectures-top-6-differences/)
+
+[The Hidden Costs Of Microservices](https://www.stackbuilders.com/news/the-hidden-costs-of-microservices)
+
+[Microservices - Not A Free Lunch!](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html)
+
+## Container
+### Docker
+[Docker Documentation](https://docs.docker.com/)
+
+[Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
+
+[Docker 问答录](https://blog.lab99.org/post/docker-2016-07-14-faq.html)
+
+[A container networking overview](https://jvns.ca/blog/2016/12/22/container-networking/)
+
+[Docker networking 101 – User defined networks](http://www.dasblinkenlichten.com/docker-networking-101-user-defined-networks/)
+
+[Understanding CNI (Container Networking Interface)](http://www.dasblinkenlichten.com/understanding-cni-container-networking-interface/)
+
+[Using CNI with Docker](http://www.dasblinkenlichten.com/using-cni-docker/)
+
+## Block Chain
+### Bitcoin
 [Bitcoin White Paper](http://www.yuxiumin.com/2018/01/16/bitcoin-white-paper/)
 
 [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#block-chain)
 
-#### Ethereum
+### Ethereum
 [Ethereum White Paper](https://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 
 [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
