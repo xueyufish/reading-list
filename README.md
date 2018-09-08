@@ -7,6 +7,12 @@
 
 [Spring Boot参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
 
+[Java Platform, Standard Edition HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/)
+
+[Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html)
+
+[JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/)
+
 ### Go
 [The Go Programming Language Specification](https://golang.org/ref/spec)
 
@@ -21,6 +27,12 @@
 [Effective Go](https://golang.org/doc/effective_go.html)
 
 [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+
+[Github: Go Articles](https://github.com/golang/go/wiki/Articles)
+
+[Github: Go Blogs](https://github.com/golang/go/wiki/Blogs)
+
+[Github: Awesome Go](https://github.com/avelino/awesome-go)
 
 ### Linux
 [Product Documentation for Red Hat Enterprise Linux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/?version=7)
@@ -92,7 +104,6 @@
 [SQL vs. NoSQL Databases: What’s the Difference?](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/)
 
 [SQL or NoSQL](https://engineering.salesforce.com/sql-or-nosql-9eaf1d92545b)
-
 
 ### MySQL
 [MySQL Documentation](https://dev.mysql.com/doc/)
@@ -227,6 +238,12 @@
 [microservices](https://martinfowler.com/articles/microservices.html)
 
 ### Distributed System
+[Fallacies of Distributed Computing Explained](https://www.rgoarchitects.com/Files/fallacies.pdf)
+
+[Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
+
+[Distributed systems for fun and profit](http://book.mixu.net/distsys/)
+
 [Scalable Web Architecture and Distributed Systems](http://nettee.github.io/posts/2016/Scalable-Web-Architecture-and-Distributed-Systems/)
 
 [Distributed Systems Principles and Paradigms](http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Distributed%20Systems%20Principles%20and%20Paradigms.pdf)
@@ -263,9 +280,59 @@
 
 [Eventually Consistent - Revisited](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 
+[Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+
 [Dapper，大规模分布式系统的跟踪系统](http://bigbully.github.io/Dapper-translation/)
 
+[An introduction to distributed systems](https://github.com/aphyr/distsys-class)
+
+[Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.com/files/p1041-verbitski.pdf)
+
+[Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
+[The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+
+[The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+
+[Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+
+[MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+
+[Paxos Made Live - An Engineering Perspective](https://static.googleusercontent.com/media/research.google.com/en//archive/paxos_made_live.pdf)
+
+[NEAT ALGORITHMS - PAXOS](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/)
+
+[Paxos By Example](https://angus.nyc/2012/paxos-by-example/)
+
+[Paxos made code - Implementing a high throughput Atomic Broadcast](http://www.inf.usi.ch/faculty/pedone/MScThesis/marco.pdf)
+
+[Paxos for System Builders](http://www.cnds.jhu.edu/pub/papers/cnds-2008-2.pdf)
+
+[Paxos Made Practica](https://web.stanford.edu/class/cs340v/papers/paxos.pdf)
+
+[Paxos Made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf)
+
+[Zab: High-performance broadcast for primary-backup systems](https://www.semanticscholar.org/paper/Zab%3A-High-performance-broadcast-for-primary-backup-Junqueira-Reed/b02c6b00bd5dbdbd951fddb00b906c82fa80f0b3)
+
 [ZooKeeper’s atomic broadcast protocol: Theory and practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf)
+
+[Raft Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
+
+[The Raft Consensus Algorithm](https://raft.github.io/)
+
+[Raft Distributed Consensus Algorithm Visualization](http://kanaka.github.io/raft.js/)
+
+[In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
+
+[Why Vector Clocks are Easy](http://basho.com/posts/technical/why-vector-clocks-are-easy/)
+
+[Why Vector Clocks Are Hard](http://basho.com/posts/technical/why-vector-clocks-are-hard/)
+
+[Efficient Reconciliation and Flow Control for Anti-Entropy Protocols](https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf)
+
+[Gossip visualization](https://rrmoelker.github.io/gossip-visualization/)
+
+[Spanner: Becoming a SQL System](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46103.pdf)
 
 ### Block Chain
 
