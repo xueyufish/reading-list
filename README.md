@@ -3,14 +3,16 @@
 A curated list of my tech resrouces.
 
 ### Contents
-- [Tech Resource](#tech-resource)
-        - [Contents](#contents)
-    - [Programming Language](#programming-language)
+- [Programming Language](#programming-language)
         - [Java](#java)
         - [Go](#go)
-    - [Operating System](#operating-system)
+- [Operating System](#operating-system)
         - [Linux](#linux)
-    - [Database](#database)
+        - [Memory](#memory)
+        - [Network](#network)
+        - [I/O](#io)
+        - [Lock-Free](#lock-free)
+- [Database](#database)
         - [MySQL](#mysql)
         - [Redis](#redis)
         - [Cassandra](#cassandra)
@@ -18,14 +20,14 @@ A curated list of my tech resrouces.
         - [Document Database](#document-database)
         - [Time-Series Database](#time-series-database)
         - [Distributed System](#distributed-system)
-    - [Arch Design](#arch-design)
+- [Arch Design](#arch-design)
         - [API Design Guidelines](#api-design-guidelines)
         - [Search](#search)
         - [Micro Service](#micro-service)
-    - [Container](#container)
+- [Container](#container)
         - [Docker](#docker)
         - [Kubernates](#kubernates)
-    - [Block Chain](#block-chain)
+- [Block Chain](#block-chain)
         - [Bitcoin](#bitcoin)
         - [Ethereum](#ethereum)
 
@@ -84,10 +86,7 @@ A curated list of my tech resrouces.
 
 [Linux Performance and Tuning Guidelines](https://lenovopress.com/redp4285.pdf)
 
-[Memory Barriers: a Hardware View for Software Hackers](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
-
-[Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
-
+### Memory
 [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
 
 [Memory part 2: CPU caches](https://lwn.net/Articles/252125/)
@@ -105,6 +104,173 @@ A curated list of my tech resrouces.
 [Memory part 8: Future technologies](https://lwn.net/Articles/258154/)
 
 [Memory part 9: Appendices and bibliography](https://lwn.net/Articles/258188/)
+
+[Memory Barriers: a Hardware View for Software Hackers](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
+
+[A Tutorial Introduction to the ARM and POWER Relaxed Memory Models](https://www.cl.cam.ac.uk/~pes20/ppc-supplemental/test7.pdf)
+
+[Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
+
+[x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors](https://www.cl.cam.ac.uk/~pes20/weakmemory/cacm.pdf)
+
+[ptmalloc,tcmalloc和jemalloc内存分配策略研究](https://owent.net/2013/867.html)
+
+[内存优化总结:ptmalloc、tcmalloc和jemalloc](http://www.cnhalo.net/2016/06/13/memory-optimize/)
+
+[Scalable memory allocation using jemalloc](https://www.facebook.com/notes/facebook-engineering/scalable-memory-allocation-using-jemalloc/480222803919)
+
+[Decreasing RAM Usage by 40% Using jemalloc with Python & Celery](https://zapier.com/engineering/celery-python-jemalloc/)
+
+### Network
+[Computer Network Design](http://www.site.uottawa.ca/~shervin/courses/ceg4185/lectures/)
+
+[Computer Network Tutorials](https://www.geeksforgeeks.org/computer-network-tutorials/)
+
+[Linux Advanced Routing & Traffic Control HOWTO](http://www.tldp.org/HOWTO/Adv-Routing-HOWTO/)
+
+[Red Hat Enterprise Linux Network Performance Tuning Guide](https://access.redhat.com/sites/default/files/attachments/20150325_network_performance_tuning.pdf)
+
+[Github: Awesome pcaptools](https://github.com/caesar0301/awesome-pcaptools)
+
+[Making Linux TCP Fast](https://netdevconf.org/1.2/papers/bbr-netdev-1.2.new.new.pdf)
+
+[Monitoring and Tuning the Linux Networking Stack: Sending Data](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
+
+[Monitoring and Tuning the Linux Networking Stack: Receiving Data](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
+
+[RFC 826 - An Ethernet Address Resolution Protocol](https://tools.ietf.org/html/rfc826)
+
+[RFC 1853 - IP in IP Tunneling](https://tools.ietf.org/html/rfc1853)
+
+[RFC 2784 - Generic Routing Encapsulation (GRE)](https://tools.ietf.org/html/rfc2784)
+
+[RFC 2661 - Layer Two Tunneling Protocol "L2TP"](https://tools.ietf.org/html/rfc2661)
+
+[RFC 2637 - Point-to-Point Tunneling Protocol (PPTP)](https://tools.ietf.org/html/rfc2637)
+
+[RFC 793 - Transmission Control Protocol](https://tools.ietf.org/html/rfc793)
+
+[RFC 813 - Window and Acknowledgement Strategy in TCP](https://tools.ietf.org/html/rfc813)
+
+[RFC 879 - The TCP Maximum Segment Size and Related Topics](https://tools.ietf.org/html/rfc879)
+
+[RFC 896 - Congestion Control in IP/TCP Internetworks](https://tools.ietf.org/html/rfc896)
+
+[RFC 896 - Congestion Control in IP/TCP Internetworks](https://tools.ietf.org/html/rfc896)
+
+[RFC 5681 - TCP Congestion Control](https://tools.ietf.org/html/rfc5681)
+
+[RFC 5682 - The NewReno Modification to TCP's Fast Recovery Algorithm](https://tools.ietf.org/html/rfc5682)
+
+[RFC 5682 - The NewReno Modification to TCP's Fast Recovery Algorithm](https://tools.ietf.org/html/rfc5682)
+
+[RFC 2018 - TCP Selective Acknowledgment Options](https://tools.ietf.org/html/rfc2018)
+
+[RFC 2883 - An Extension to the Selective Acknowledgement (SACK) Option for TCP](https://tools.ietf.org/html/rfc2883)
+
+[RFC 2998 - Computing TCP's Retransmission Timer](https://tools.ietf.org/html/rfc2998)
+
+[RFC 6298 - Computing TCP's Retransmission Timer](https://tools.ietf.org/html/rfc6298)
+
+[Congestion Avoidance and Control](http://ee.lbl.gov/papers/congavoid.pdf)
+
+[Linux Programmer's Manual: TCP](http://man7.org/linux/man-pages/man7/tcp.7.html)
+
+[RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://tools.ietf.org/html/rfc7230)
+
+[RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://tools.ietf.org/html/rfc7231)
+
+[RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://tools.ietf.org/html/rfc7232)
+
+[RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://tools.ietf.org/html/rfc7233)
+
+[RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://tools.ietf.org/html/rfc7234)
+
+[RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://tools.ietf.org/html/rfc7235)
+
+[Gitbook: HTTP/2 详解](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)
+
+[HTTP/2 for a Faster Web](https://cascadingmedia.com/insites/2015/03/http-2.html)
+
+[HTTP/2 for Web Application Developers](https://www.nginx.com/wp-content/uploads/2015/09/NGINX_HTTP2_White_Paper_v4.pdf)
+
+[Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.org/specs/rfc7540.html)
+
+[HPACK: Header Compression for HTTP/2](https://httpwg.org/specs/rfc7541.html)
+
+### I/O
+[C10k problem](https://en.wikipedia.org/wiki/C10k_problem)
+
+[Thousands of Threads and Blocking I/O](https://www.slideshare.net/e456/tyma-paulmultithreaded1)
+
+[Scalable IO in Java](http://gee.cs.oswego.edu/dl/cpjslides/nio.pdf)
+
+[Boost application performance using asynchronous I/O](https://www.ibm.com/developerworks/library/l-async/)
+
+[Lazy Asynchronous I/O For Event-Driven Servers](https://www.usenix.org/legacy/event/usenix04/tech/general/full_papers/elmeleegy/elmeleegy_html/html.html)
+
+[I/O Completion Ports](https://docs.microsoft.com/en-us/windows/desktop/FileIO/i-o-completion-ports)
+
+[I/O Processing](https://flylib.com/books/en/4.491.1.85/1/)
+
+[Inside I/O Completion Ports](http://sysinternals.d4rk4.ru/Information/IoCompletionPorts.html)
+
+[libevent 2.0 book](http://www.wangafu.net/~nickm/libevent-book/)
+
+[Libevent深入浅出](https://aceld.gitbooks.io/libevent/content/)
+
+[Libuv Design Overview](http://docs.libuv.org/en/v1.x/design.html)
+
+[Understanding Reactor Pattern: Thread-Based and Event-Driven](https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve)
+
+[The reactor pattern and non blocking IO](https://www.celum.com/en/blog/technology/the-reactor-pattern-and-non-blocking-io)
+
+[Reactor: An Object Behavioral Pattern for Demultiplexing and Dispatching Handles for Synchronous Events](https://www.cse.wustl.edu/~schmidt/PDF/reactor-siemens.pdf)
+
+[The Secret To 10 Million Concurrent Connections -The Kernel Is The Problem, Not The Solution](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
+
+[Select is fundamentally broken](https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/)
+
+[Epoll is fundamentally broken 1/2](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
+
+[Epoll is fundamentally broken 2/2](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/)
+
+### Lock-Free
+[Dr.Dobb: Lock-Free Data Structures](http://www.drdobbs.com/lock-free-data-structures/184401865)
+
+[Andrei Alexandrescu: Lock-Free Data Structures](https://erdani.com/publications/cuj-2004-10.pdf)
+
+[Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+
+[Wiki: Non-blocking algorithm](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
+
+[Wiki: Read-copy-update](https://en.wikipedia.org/wiki/Read-copy-update)
+
+[Wiki: Seqlock](https://en.wikipedia.org/wiki/Seqlock)
+
+[Implementing Lock-Free Queues](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.8674&rep=rep1&type=pdf)
+
+[All about 64-bit programming in one place](https://software.intel.com/en-us/blogs/2011/07/07/all-about-64-bit-programming-in-one-place/)
+
+[What Scalable Programs Need from Transactional Memory](https://dl.acm.org/citation.cfm?id=3037750)
+
+[Improving OpenSSL Performance](https://software.intel.com/en-us/articles/improving-openssl-performance)
+
+[How eBay's Shopping Cart used compression techniques to solve network I/O bottlenecks](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
+
+[Boosting Site Speed Using Brotli Compression](https://engineering.linkedin.com/blog/2017/05/boosting-site-speed-using-brotli-compression)
+
+[Performance Testing with SSDs, Part 1](https://devs.mailchimp.com/blog/performance-testing-with-ssds-part-1/)
+
+[Performance Testing with SSDs, Part 2](https://devs.mailchimp.com/blog/performance-testing-with-ssds-pt-2/)
+
+[Secure Programming HOWTO - Creating Secure Software](https://www.dwheeler.com/secure-programs/)
+
+[Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
+
+[The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb](http://jimgray.azurewebsites.net/5_min_rule_sigmod.pdf)
+
+[The Five-Minute Rule 20 Years Later](https://cacm.acm.org/magazines/2009/7/32091-the-five-minute-rule-20-years-later/fulltext)
 
 ## Database
 [Some study on database storage internals](https://medium.com/@kousiknath/data-structures-database-storage-internals-1f5ed3619d430)
@@ -571,7 +737,71 @@ A curated list of my tech resrouces.
 
 [Using CNI with Docker](http://www.dasblinkenlichten.com/using-cni-docker/)
 
+[Battlefield: Calico, Flannel, Weave and Docker Overlay Network](http://chunqi.li/2015/11/15/Battlefield-Calico-Flannel-Weave-and-Docker-Overlay-Network/)
+
+[Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
+
+[Docker Overlay Networks: Performance analysis in high-latency environments](http://www.delaat.net/rp/2015-2016/p50/report.pdf)
+
+[An Updated Performance Comparison of Virtual Machines and Linux Containers](https://domino.research.ibm.com/library/cyberdig.nsf/papers/0929052195DD819C85257D2300681E7B/$File/rc25482.pdf)
+
+[An Introduction to Docker and Analysis of its Performance](http://paper.ijcsns.org/07_book/201703/20170327.pdf)
+
+[Docker Monitoring with the ELK Stack: A Step-by-Step Guide](https://logz.io/learn/docker-monitoring-elk-stack/)
+
+[Valuable Docker Links](https://www.nkode.io/2014/08/24/valuable-docker-links.html)
+
+[Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+
+[Docker Best Practices](https://github.com/FuriKuri/docker-best-practices)
+
+[Container Best Practices](http://docs.projectatomic.io/container-best-practices/)
+
+[Eight Docker Development Patterns](http://hokstad.com/docker/patterns)
+
 ### Kubernates
+
+[Kubernetes Documentation](https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational)
+
+[Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+
+[Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)
+
+[Kubernetes 指南](https://kubernetes.feisky.xyz/zh/#kubernetes-%E6%8C%87%E5%8D%97)
+
+[Learn Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/kubernetes)
+
+[Kubernates Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
+
+[Kubernetes tips & tricks](https://opsnotice.xyz/kubernetes-tips-tricks/)
+
+[How to Set Up Scalable Jenkins on Top of a Kubernetes Cluster](https://dzone.com/articles/how-to-setup-scalable-jenkins-on-top-of-a-kubernet)
+
+[10 Most Common Reasons Kubernetes Deployments Fail (Part 1)](https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/)
+
+[10 Most Common Reasons Kubernetes Deployments Fail (Part 2)](https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-2/)
+
+[Kubernetes 101 – Networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/)
+
+[Kubernetes networking 101 – Pods](http://www.dasblinkenlichten.com/kubernetes-networking-101-pods/)
+
+[Kubernetes networking 101 – Services](http://www.dasblinkenlichten.com/kubernetes-networking-101-services/)
+
+[Kubernetes networking 101 – (Basic) External access into the cluster](http://www.dasblinkenlichten.com/kubernetes-networking-101-basic-external-access-into-the-cluster/)
+
+[Kubernetes Networking 101 – Ingress resources](http://www.dasblinkenlichten.com/kubernetes-networking-101-ingress-resources/)
+
+[Getting started with Calico on Kubernetes](http://www.dasblinkenlichten.com/getting-started-with-calico-on-kubernetes/)
+
+[Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
+
+[Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
+
+[Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+
+[Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+[The New Stack eBook Series](https://thenewstack.io/ebooks)
 
 ## Block Chain
 ### Bitcoin
