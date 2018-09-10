@@ -1,6 +1,37 @@
 # Tech Resource
 
+A curated list of my tech resrouces.
+
+### Contents
+- [Tech Resource](#tech-resource)
+        - [Contents](#contents)
+    - [Programming Language](#programming-language)
+        - [Java](#java)
+        - [Go](#go)
+    - [Operating System](#operating-system)
+        - [Linux](#linux)
+    - [Database](#database)
+        - [MySQL](#mysql)
+        - [Redis](#redis)
+        - [Cassandra](#cassandra)
+        - [HBase](#hbase)
+        - [Document Database](#document-database)
+        - [Time-Series Database](#time-series-database)
+        - [Distributed System](#distributed-system)
+    - [Arch Design](#arch-design)
+        - [API Design Guidelines](#api-design-guidelines)
+        - [Search](#search)
+        - [Micro Service](#micro-service)
+    - [Container](#container)
+        - [Docker](#docker)
+        - [Kubernates](#kubernates)
+    - [Block Chain](#block-chain)
+        - [Bitcoin](#bitcoin)
+        - [Ethereum](#ethereum)
+
 ## Programming Language
+*Resrouces for programming language, eg: Java, go.*
+
 ### Java
 [Introduction to java bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
 
@@ -35,7 +66,7 @@
 
 [Github: Awesome Go](https://github.com/avelino/awesome-go)
 
-## System
+## Operating System
 ### Linux
 [Product Documentation for Red Hat Enterprise Linux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/?version=7)
 
@@ -76,7 +107,6 @@
 [Memory part 9: Appendices and bibliography](https://lwn.net/Articles/258188/)
 
 ## Database
-
 [Some study on database storage internals](https://medium.com/@kousiknath/data-structures-database-storage-internals-1f5ed3619d430)
 
 [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
@@ -216,24 +246,6 @@
 [Design of a Cost Efficient Time Series Store for Big Data](https://medium.com/@leventov/design-of-a-cost-efficient-time-series-store-for-big-data-88c5dc41af8e)
 
 [GitHub: Awesome Time-Series Database](https://github.com/xephonhq/awesome-time-series-database)
-
-
-### API Design Guidelines
-[How to Design a Good API](https://www.infoq.com/presentations/effective-api-design)
-
-[Best Practices for a Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-
-[Ideal rest api design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/)
-
-[Heroku Platform API Guidelines](https://github.com/interagent/http-api-design)
-
-[Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md)
-
-[Watson Developer Cloud services API Guidelines](https://github.com/watson-developer-cloud/api-guidelines)
-
-[Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
-
-
 
 ### Distributed System
 [Fallacies of Distributed Computing Explained](https://www.rgoarchitects.com/Files/fallacies.pdf)
@@ -472,6 +484,23 @@
 
 [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
 
+## Arch Design
+### API Design Guidelines
+[How to Design a Good API](https://www.infoq.com/presentations/effective-api-design)
+
+[Best Practices for a Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+[Ideal rest api design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/)
+
+[Heroku Platform API Guidelines](https://github.com/interagent/http-api-design)
+
+[Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md)
+
+[Watson Developer Cloud services API Guidelines](https://github.com/watson-developer-cloud/api-guidelines)
+
+[Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+
+
 ### Search 
 [Instgram: Search Architecture](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
 
@@ -495,7 +524,7 @@
 
 [Nebula as a Storage Platform to Build Airbnb’s Search Backends](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
 
-## Micro Service
+### Micro Service
 [Martin Fowler: microservices](https://martinfowler.com/articles/microservices.html)
 
 [Amazon: What are Microservices?](https://aws.amazon.com/cn/microservices/)
@@ -541,6 +570,8 @@
 [Understanding CNI (Container Networking Interface)](http://www.dasblinkenlichten.com/understanding-cni-container-networking-interface/)
 
 [Using CNI with Docker](http://www.dasblinkenlichten.com/using-cni-docker/)
+
+### Kubernates
 
 ## Block Chain
 ### Bitcoin
