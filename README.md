@@ -767,6 +767,10 @@ A curated list of my tech resrouces.
 
 [Eight Docker Development Patterns](http://hokstad.com/docker/patterns)
 
+[Docker Handbook](https://jimmysong.io/docker-handbook/)
+
+[Container-Networking](https://mozhuli.gitbooks.io/container-networking/)
+
 ### Kubernates
 
 [Kubernetes Documentation](https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational)
