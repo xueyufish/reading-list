@@ -654,6 +654,10 @@ A curated list of my tech resrouces.
 
 [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
 
+[Readings in distributed systems](https://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+
+[A Distributed Systems Reading List](https://dancres.github.io/Pages/)
+
 ## Arch Design
 ### API Design Guidelines
 [How to Design a Good API](https://www.infoq.com/presentations/effective-api-design)
