@@ -674,7 +674,6 @@ A curated list of my tech resrouces.
 
 [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
-
 ### Search 
 [Instgram: Search Architecture](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
 
@@ -728,6 +727,8 @@ A curated list of my tech resrouces.
 [The Hidden Costs Of Microservices](https://www.stackbuilders.com/news/the-hidden-costs-of-microservices)
 
 [Microservices - Not A Free Lunch!](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html)
+
+[Github: Best practices for building a microservice architecture]（https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md）
 
 ## Container
 ### Docker
