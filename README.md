@@ -728,7 +728,23 @@ A curated list of my tech resrouces.
 
 [Microservices - Not A Free Lunch!](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html)
 
-[Github: Best practices for building a microservice architecture]（https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md）
+[Github: Best practices for building a microservice architecture](https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md)
+
+[Github: Best practices for building a microservice architecture](https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md)
+
+[Building Microservices: Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+
+[Building Microservices: Using an API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
+
+[Building Microservices: Inter-Process Communication in a Microservices Architecture](https://www.nginx.com/blog/building-microservices-inter-process-communication/)
+
+[Building Microservices: Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
+
+[Building Microservices: Event-Driven Data Management for Microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/)
+
+[Building Microservices: Choosing a Microservices Deployment Strategy](https://www.nginx.com/blog/deploying-microservices/)
+
+[Building Microservices: Refactoring a Monolith into Microservices](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/)
 
 ## Container
 ### Docker
