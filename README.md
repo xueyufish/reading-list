@@ -49,6 +49,8 @@ A curated list of my tech resrouces.
 
 [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/)
 
+[Java Platform, Standard Edition Troubleshooting Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/)
+
 ### Go
 [The Go Programming Language Specification](https://golang.org/ref/spec)
 
