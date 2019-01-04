@@ -21,7 +21,7 @@ A curated list of my tech resrouces.
         - [HBase](#hbase)
         - [Document Database](#document-database)
         - [Time-Series Database](#time-series-database)
-        - [Distributed System](#distributed-system)
+    - [Distributed System](#distributed-system)
     - [Arch Design](#arch-design)
         - [API Design Guidelines](#api-design-guidelines)
         - [Search](#search)
@@ -308,6 +308,9 @@ A curated list of my tech resrouces.
 [SQL vs. NoSQL Databases: What’s the Difference?](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/)
 
 [SQL or NoSQL](https://engineering.salesforce.com/sql-or-nosql-9eaf1d92545b)
+
+[Large-scale Incremental Processing
+Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Peng.pdf)
 
 ### MySQL
 [MySQL Documentation](https://dev.mysql.com/doc/)
