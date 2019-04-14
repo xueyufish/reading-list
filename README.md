@@ -8,6 +8,7 @@ A curated list of my tech resrouces.
     - [Programming Language](#programming-language)
         - [Java](#java)
         - [Go](#go)
+        - [C++](#c++)
     - [Operating System](#operating-system)
         - [Linux](#linux)
         - [Memory](#memory)
@@ -71,6 +72,10 @@ A curated list of my tech resrouces.
 [Github: Go Blogs](https://github.com/golang/go/wiki/Blogs)
 
 [Github: Awesome Go](https://github.com/avelino/awesome-go)
+
+### C++
+[cplusplus](https://www.cplusplus.com/)
+
 
 ## Operating System
 ### Linux
