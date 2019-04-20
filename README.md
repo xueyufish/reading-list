@@ -1,6 +1,6 @@
 # Tech Resource
 
-A curated list of my tech resrouces.
+A curated list of tech resrouces.
 
 ### Contents
 
@@ -8,7 +8,8 @@ A curated list of my tech resrouces.
     - [Programming Language](#programming-language)
         - [Java](#java)
         - [Go](#go)
-        - [C++](#c++)
+        - [CPP](#cpp)
+        - [Rust](#rust)
     - [Operating System](#operating-system)
         - [Linux](#linux)
         - [Memory](#memory)
@@ -73,9 +74,10 @@ A curated list of my tech resrouces.
 
 [Github: Awesome Go](https://github.com/avelino/awesome-go)
 
-### C++
+### CPP
 [cplusplus](https://www.cplusplus.com/)
 
+### Rust
 
 ## Operating System
 ### Linux
