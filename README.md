@@ -6,6 +6,7 @@ A curated list of tech resrouces.
 
 - [Tech Resource](#tech-resource)
     - [Programming Language](#programming-language)
+        - [Algorithms](#algorithms)
         - [Java](#java)
         - [Go](#go)
         - [CPP](#cpp)
@@ -37,6 +38,9 @@ A curated list of tech resrouces.
 
 ## Programming Language
 *Resrouces for programming language, eg: Java, go.*
+
+### Algorithms
+[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Java
 [Introduction to java bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
