@@ -29,6 +29,7 @@ A curated list of tech resrouces.
         - [API Design Guidelines](#api-design-guidelines)
         - [Search](#search)
         - [Micro Service](#micro-service)
+        - [Architecture](#architecture)
     - [Container](#container)
         - [Docker](#docker)
         - [Kubernates](#kubernates)
@@ -763,6 +764,9 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 [Building Microservices: Choosing a Microservices Deployment Strategy](https://www.nginx.com/blog/deploying-microservices/)
 
 [Building Microservices: Refactoring a Monolith into Microservices](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/)
+
+### Architecture
+[Azure Architecture Center]https://docs.microsoft.com/en-us/azure/architecture/
 
 ## Container
 ### Docker
