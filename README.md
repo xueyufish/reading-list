@@ -60,6 +60,10 @@ A curated list of tech resrouces.
 
 [Java Platform, Standard Edition Troubleshooting Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/)
 
+[The Java Memory Model(]http://www.cs.umd.edu/~pugh/java/memoryModel/index.html)
+
+[The Java® Language Specification](https://docs.oracle.com/javase/specs/jls/se13/html/)
+
 ### Go
 [The Go Programming Language Specification](https://golang.org/ref/spec)
 
