@@ -92,6 +92,8 @@ A curated list of tech resrouces.
 
 ## Operating System
 ### Linux
+[http://pages.cs.wisc.edu/~remzi/OSTEP/](Operating Systems: Three Easy Pieces)
+
 [Product Documentation for Red Hat Enterprise Linux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/?version=7)
 
 [linux-insides](https://github.com/0xAX/linux-insides)
