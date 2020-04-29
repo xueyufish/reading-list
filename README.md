@@ -27,6 +27,7 @@ A curated list of tech resrouces.
     - [Distributed System](#distributed-system)
     - [Arch Design](#arch-design)
         - [API Design Guidelines](#api-design-guidelines)
+        - [Design patterns](#design-patterns)
         - [Search](#search)
         - [Micro Service](#micro-service)
         - [Architecture](#architecture)
@@ -698,6 +699,10 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 [Watson Developer Cloud services API Guidelines](https://github.com/watson-developer-cloud/api-guidelines)
 
 [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+
+### Design patterns
+[refactoring.guru](https://refactoring.guru/)
+
 
 ### Search 
 [Instgram: Search Architecture](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
