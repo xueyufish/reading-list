@@ -821,7 +821,7 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 [Container-Networking](https://mozhuli.gitbooks.io/container-networking/)
 
-### Kubernates
+### Kubernetes
 
 [Kubernetes Documentation](https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational)
 
