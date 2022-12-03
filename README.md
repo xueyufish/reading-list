@@ -865,6 +865,8 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 [The New Stack eBook Series](https://thenewstack.io/ebooks)
 
+[Kubernetes in action second edition](https://livebook.manning.com/book/kubernetes-in-action-second-edition/)
+
 ## Block Chain
 ### Bitcoin
 [Bitcoin White Paper](http://www.yuxiumin.com/2018/01/16/bitcoin-white-paper/)
