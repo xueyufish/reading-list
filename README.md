@@ -5,39 +5,42 @@ A curated list of tech resrouces.
 ### Contents
 
 - [Tech Resource](#tech-resource)
-    - [Programming Language](#programming-language)
-        - [Algorithms](#algorithms)
-        - [Java](#java)
-        - [Go](#go)
-        - [CPP](#cpp)
-        - [Rust](#rust)
-    - [Operating System](#operating-system)
-        - [Linux](#linux)
-        - [Memory](#memory)
-        - [Network](#network)
-        - [I/O](#io)
-        - [Lock-Free](#lock-free)
-    - [Database](#database)
-        - [MySQL](#mysql)
-        - [Redis](#redis)
-        - [Cassandra](#cassandra)
-        - [HBase](#hbase)
-        - [Document Database](#document-database)
-        - [Time-Series Database](#time-series-database)
+    - [Contents](#contents)
+  - [Programming Language](#programming-language)
+    - [Algorithms](#algorithms)
+    - [Java](#java)
+    - [Go](#go)
+    - [CPP](#cpp)
+    - [Rust](#rust)
+  - [Software Engineer](#software-engineer)
+  - [Operating System](#operating-system)
+    - [Linux](#linux)
+    - [Memory](#memory)
+    - [Network](#network)
+    - [I/O](#io)
+    - [Lock-Free](#lock-free)
+  - [Database](#database)
+    - [MySQL](#mysql)
+    - [Redis](#redis)
+    - [Cassandra](#cassandra)
+    - [HBase](#hbase)
+    - [Document Database](#document-database)
+    - [Time-Series Database](#time-series-database)
     - [Distributed System](#distributed-system)
-    - [Arch Design](#arch-design)
-        - [API Design Guidelines](#api-design-guidelines)
-        - [Design patterns](#design-patterns)
-        - [Search](#search)
-        - [Micro Service](#micro-service)
-        - [Architecture](#architecture)
-    - [Container](#container)
-        - [Docker](#docker)
-        - [Kubernates](#kubernates)
-    - [Block Chain](#block-chain)
-        - [Bitcoin](#bitcoin)
-        - [Ethereum](#ethereum)
-    - [Documentation](#documentation)
+  - [Arch Design](#arch-design)
+    - [API Design Guidelines](#api-design-guidelines)
+    - [Design patterns](#design-patterns)
+    - [Search](#search)
+    - [Micro Service](#micro-service)
+    - [Architecture](#architecture)
+  - [Container](#container)
+    - [Docker](#docker)
+    - [Kubernetes](#kubernetes)
+  - [Block Chain](#block-chain)
+    - [Bitcoin](#bitcoin)
+    - [Ethereum](#ethereum)
+  - [Testing](#testing)
+  - [Documentation](#documentation)
     
 
 ## Programming Language
@@ -90,6 +93,21 @@ A curated list of tech resrouces.
 [cplusplus](https://www.cplusplus.com/)
 
 ### Rust
+
+## Software Engineer
+[97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/index.html)
+
+[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+
+[The XY Problem](https://xyproblem.info/)
+
+[FAQ for Stack Exchange sites](https://meta.stackexchange.com/questions/7931/faq-for-stack-exchange-sites)
+
+[Code Review Best Practices](https://blog.palantir.com/code-review-best-practices-19e02780015f)
+
+[How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
+
+[LinkedIn’s Tips for Highly Effective Code Review](https://thenewstack.io/linkedin-code-review/)
 
 ## Operating System
 ### Linux
@@ -777,7 +795,7 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 [Building Microservices: Refactoring a Monolith into Microservices](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/)
 
 ### Architecture
-[Azure Architecture Center]https://docs.microsoft.com/en-us/azure/architecture/
+[Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
 ## Container
 ### Docker
@@ -881,6 +899,13 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 [以太坊设计原理](https://ethfans.org/posts/510)
 
 [Ethereum Design Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale)
+
+## Testing
+[JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+
+[You Still Don’t Know How to Do Unit Testing](https://stackify.com/unit-testing-basics-best-practices/)
+
+[Unit Testing Best Practices: JUnit Reference Guide](https://dzone.com/articles/unit-testing-best-practices)
 
 ## Documentation
 [Google developer documentation style guide](https://developers.google.com/style/)
