@@ -40,6 +40,7 @@ A curated list of tech resrouces.
     - [Bitcoin](#bitcoin)
     - [Ethereum](#ethereum)
   - [Testing](#testing)
+  - [Version Control](#version-control)
   - [Documentation](#documentation)
   - [Interview](#interview)
   
@@ -69,6 +70,20 @@ A curated list of tech resrouces.
 [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/index.html)
 
 [The Java® Language Specification](https://docs.oracle.com/javase/specs/jls/se13/html/)
+
+[互联网公司常用框架源码赏析](https://github.com/doocs/source-code-hunter)
+
+[JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning)
+
+[JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals)
+
+[Code Review Checklist: Java Concurrency](https://github.com/code-review-checklists/java-concurrency)
+
+[Java Concurrency Patterns and Features](https://github.com/LeonardoZ/java-concurrency-patterns)
+
+[Java并发知识点总结](https://github.com/CL0610/Java-concurrency)
+
+[Java多线程系列文章](https://github.com/RedSpider1/concurrent)
 
 ### Go
 [The Go Programming Language Specification](https://golang.org/ref/spec)
@@ -704,6 +719,8 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
+[Designing Data-Intensive Applications](https://github.com/Vonng/ddia)
+
 ## Arch Design
 ### API Design Guidelines
 [How to Design a Good API](https://www.infoq.com/presentations/effective-api-design)
@@ -798,6 +815,18 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 ### Architecture
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+
+[professional-programming](https://github.com/charlax/professional-programming)
+
+[Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+
+[system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+
+[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+
+[system_design](https://github.com/shashank88/system_design)
+
+[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 ## Container
 ### Docker
@@ -909,8 +938,15 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 [Unit Testing Best Practices: JUnit Reference Guide](https://dzone.com/articles/unit-testing-best-practices)
 
+## Version Control
+[my-git](https://github.com/xirong/my-git)
+
+[30 天精通 Git 版本控制](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-cn/README.md)
+
 ## Documentation
 [Google developer documentation style guide](https://developers.google.com/style/)
+
+[中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
 ## Interview
 [JavaFamily](https://github.com/AobingJava/JavaFamily)
