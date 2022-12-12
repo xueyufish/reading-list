@@ -85,6 +85,12 @@ A curated list of tech resrouces.
 
 [Java多线程系列文章](https://github.com/RedSpider1/concurrent)
 
+[A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
+
+[Spring源码阅读](https://github.com/seaswalker/spring-analysis)
+
+[Awesome Java](https://github.com/akullpp/awesome-java)
+
 ### Go
 [The Go Programming Language Specification](https://golang.org/ref/spec)
 
@@ -827,6 +833,10 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 [system_design](https://github.com/shashank88/system_design)
 
 [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
+[互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
+
+[架构师技术图谱](https://github.com/toutiaoio/awesome-architecture)
 
 ## Container
 ### Docker
