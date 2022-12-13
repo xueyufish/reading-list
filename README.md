@@ -91,6 +91,8 @@ A curated list of tech resrouces.
 
 [Awesome Java](https://github.com/akullpp/awesome-java)
 
+[Better Java](https://github.com/cxxr/better-java)
+
 ### Go
 [The Go Programming Language Specification](https://golang.org/ref/spec)
 
@@ -112,8 +114,25 @@ A curated list of tech resrouces.
 
 [Github: Awesome Go](https://github.com/avelino/awesome-go)
 
+[Gopher Reading List](https://github.com/enocom/gopher-reading-list)
+
+[Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
+
+[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
+
+[Go by Example](https://github.com/mmcgrana/gobyexample)
+
+[Go语言圣经中文版](https://github.com/golang-china/gopl-zh)
+
+[Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
+
+[深入解析Go](https://github.com/tiancaiamao/go-internals)
+
 ### CPP
 [cplusplus](https://www.cplusplus.com/)
+
+### JavaScript
+[ES6 入门教程](https://github.com/ruanyf/es6tutorial)
 
 ### Rust
 
@@ -373,6 +392,8 @@ A curated list of tech resrouces.
 
 [Large-scale Incremental Processing
 Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Peng.pdf)
+
+[Readings in Databases](https://github.com/rxin/db-readings)
 
 ### MySQL
 [MySQL Documentation](https://dev.mysql.com/doc/)
@@ -727,6 +748,8 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 [Designing Data-Intensive Applications](https://github.com/Vonng/ddia)
 
+[awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+
 ## Arch Design
 ### API Design Guidelines
 [How to Design a Good API](https://www.infoq.com/presentations/effective-api-design)
@@ -838,6 +861,8 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 [架构师技术图谱](https://github.com/toutiaoio/awesome-architecture)
 
+[The Twelve Factors](https://12factor.net/)
+
 ## Container
 ### Docker
 [Docker Documentation](https://docs.docker.com/)
@@ -879,6 +904,10 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 [Docker Handbook](https://jimmysong.io/docker-handbook/)
 
 [Container-Networking](https://mozhuli.gitbooks.io/container-networking/)
+
+[Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
+
+[Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 
 ### Kubernetes
 
@@ -932,6 +961,8 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#block-chain)
 
+[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+
 ### Ethereum
 [Ethereum White Paper](https://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 
@@ -957,6 +988,8 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 [Google developer documentation style guide](https://developers.google.com/style/)
 
 [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
+
+[Google 开源项目风格指南——中文版](https://github.com/zh-google-styleguide/zh-google-styleguide)
 
 ## Interview
 [JavaFamily](https://github.com/AobingJava/JavaFamily)
