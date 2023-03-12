@@ -991,6 +991,8 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 [Google 开源项目风格指南——中文版](https://github.com/zh-google-styleguide/zh-google-styleguide)
 
+[技术文章摘抄](https://learn.lianglianglee.com/)
+
 ## Interview
 [JavaFamily](https://github.com/AobingJava/JavaFamily)
 
