@@ -1,6 +1,6 @@
 # Tech Resource
 
-A curated list of tech resrouces.
+My personal reading list.
 
 ### Contents
 
@@ -26,7 +26,7 @@ A curated list of tech resrouces.
     - [HBase](#hbase)
     - [Document Database](#document-database)
     - [Time-Series Database](#time-series-database)
-    - [Distributed System](#distributed-system)
+  - [Distributed System](#distributed-system)
   - [Arch Design](#arch-design)
     - [API Design Guidelines](#api-design-guidelines)
     - [Design patterns](#design-patterns)
@@ -505,7 +505,7 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 
 [GitHub: Awesome Time-Series Database](https://github.com/xephonhq/awesome-time-series-database)
 
-### Distributed System
+## Distributed System
 [Fallacies of Distributed Computing Explained](https://www.rgoarchitects.com/Files/fallacies.pdf)
 
 [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
@@ -749,6 +749,8 @@ Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/
 [Designing Data-Intensive Applications](https://github.com/Vonng/ddia)
 
 [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+
+[A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
 
 ## Arch Design
 ### API Design Guidelines
